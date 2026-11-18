@@ -1,0 +1,6 @@
+# Compatible PyTorch and torchvision are required; install them first if absent.
+torchxrayvision==1.5.7
+matplotlib>=3.7,<4
+numpy>=1.24
+pillow>=10
+jupyterlab>=4
