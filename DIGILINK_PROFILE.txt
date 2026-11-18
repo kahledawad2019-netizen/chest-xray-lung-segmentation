@@ -1,0 +1,17 @@
+PROJECT NAME:
+Chest X-ray Lung Segmentation (Medical Imaging AI)
+
+YOUR ROLE:
+AI / Computer Vision Developer
+
+GITHUB PROJECT URL:
+https://github.com/kahledawad2019-netizen/chest-xray-lung-segmentation
+
+TECHNOLOGIES (COMMA-SEPARATED):
+Python, PyTorch, TorchXRayVision, PSPNet, Computer Vision, Image Segmentation, NumPy, Matplotlib
+
+SHORT ACHIEVEMENT DESCRIPTION:
+Integrated a pretrained PSPNet model to segment left and right lungs from chest X-rays. Built image preprocessing, lung-mask overlays, and threshold-sensitivity analysis with mask area and Dice stability comparisons. Educational demo; independent ground-truth evaluation is planned.
+
+ARABIC SHORT DESCRIPTION:
+طورت ديمو لتحديد حدود الرئتين في أشعة الصدر باستخدام PSPNet جاهز من TorchXRayVision، مع تجهيز الصور وعرض الـmasks ومقارنة تأثير تغيير الـthreshold على مساحة الرئة وثبات النتائج. المشروع تجريبي ولم يخضع بعد لتقييم على بيانات مرجعية مستقلة.
