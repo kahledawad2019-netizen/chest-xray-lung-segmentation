@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.pth
+*.pt
+*.ckpt
+*.dcm
+*.dicom
+*.npy
+*.npz
+*.log
+.DS_Store
+torchxrayvision-upstream/
+# Do not upload patient-identifiable images or records.
+data/
+outputs/
